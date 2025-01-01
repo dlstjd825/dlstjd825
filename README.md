@@ -5,10 +5,10 @@
     </div>
     <div>
     <h2>BOJ</h2>
-    <a href="https://solved.ac/profile/igomae">
+    <a href="[https://solved.ac/profile/igomae](https://solved.ac/profile/igomae)">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=igomae" alt="BOJ Badge">
     </a>
-    <a href="https://solved.ac/profile/igomae">
+    <a href="[https://solved.ac/profile/igomae](https://solved.ac/profile/igomae)">
         <img src="http://mazandi.herokuapp.com/api?handle=igomae&theme=warm" alt="Mazandi Badge">
     </a>
     </div>
