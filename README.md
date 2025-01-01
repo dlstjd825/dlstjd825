@@ -2,8 +2,8 @@
 졸업하고싶어요..
 
 ## BOJ
-[![BOJ Badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=igomae)](https://solved.ac/profile/igomae)  
-[![Mazandi Badge](http://mazandi.herokuapp.com/api?handle=igomae&theme=warm)](https://solved.ac/profile/igomae)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=igomae)](https://solved.ac/igomae/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=igomae&theme=warm)](https://solved.ac/igomae/)
 
 ## 🛠️ Tech Stacks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
