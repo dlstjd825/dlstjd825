@@ -5,8 +5,8 @@
     </div>
     <div>
     <h2>BOJ</h2>
-    <a href="https://solved.ac/profile/igomae"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=igomae" alt="BOJ Badge"></a>
-    <a href="https://solved.ac/profile/igomae"><img src="http://mazandi.herokuapp.com/api?handle=igomae&theme=warm" alt="Mazandi Badge"></a>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=igomae" alt="BOJ Badge">
+        <img src="http://mazandi.herokuapp.com/api?handle=igomae&theme=warm" alt="Mazandi Badge">
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
