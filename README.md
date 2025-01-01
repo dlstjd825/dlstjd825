@@ -6,7 +6,7 @@
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=igomae&theme=warm)](https://solved.ac/igomae/)
 
 ## 🛠️ Tech Stacks
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlstjd825&exclude_repo=c_project_final,DoItCPP&layout=donut)](https://github.com/dlstjd825/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlstjd825&exclude_repo=c_project,DoItCPP&layout=donut)](https://github.com/dlstjd825/github-readme-stats)    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
